@@ -1,0 +1,60 @@
+---
+title: "Call for Abstracts & Papers"
+description: "Submission information for the Japan QCA Conference 2026"
+---
+
+::: {.callout-important}
+Submit a maximum **500-word abstract** as a Word or PDF file by **14 August 2026**. The online submission form is **TBA**. Acceptance notifications are expected around **31 August 2026**.
+:::
+
+## Submission overview
+
+| Item | Requirement |
+|---|---|
+| Conference dates | 30–31 October 2026 |
+| Venue | Waseda University, Tokyo (specific location TBA) |
+| Abstract deadline | 14 August 2026 |
+| Abstract length | Maximum 500 words |
+| File format | Word or PDF |
+| Submission form | TBA |
+| Notification | Around 31 August 2026 |
+| Conference fee | None |
+
+Choose the workshop that best fits your contribution and follow its file-naming and content requirements below. The title and all authors’ information must be included in the abstract.
+
+## Paper Development Workshop {#paper-development-workshop}
+
+The PDW welcomes researchers from different domains who wish to share QCA experiences, exchange ideas, and develop an empirical QCA paper. The workshop uses small roundtables so that paper developers can receive detailed feedback from QCA experts.
+
+### Abstract requirements
+
+Name the file **`YourSurname_PDWJ26`** and explain your QCA-based research design, including:
+
+1. Your research question or questions
+2. The analytical framework
+3. The strategy for collecting raw data and calibrating cases
+4. The reasons for using QCA to address the research gap
+
+Within the word limit, provide detailed information on the data—including the number of cases and conditions—and the empirical findings of the QCA study.
+
+Abstracts will be reviewed by an expert panel. Submissions may not be accepted if the project is at a stage before QCA is being applied or if it is purely conceptual rather than an empirical application. The panel will also consider the clarity of purpose and methodological rigor.
+
+Applicants whose abstracts are accepted will be invited to submit a full paper of no more than **8,000 words** for presentation at the PDW.
+
+### Travel grants
+
+PhD students who have no or insufficient funding to travel to Tokyo may apply for a travel grant. Grants are expected not to exceed **¥50,000**. The application process and award conditions are TBA.
+
+## Expert Workshop {#expert-workshop}
+
+The EW invites experienced QCA researchers from a variety of disciplinary backgrounds to present, develop, and discuss methodological issues related to QCA. Empirical applications may illustrate those issues, but the main focus should be on developing QCA or a related method.
+
+Name the file **`YourSurname_EWJ26`**. Applicants will be notified around 31 August 2026. Accepted presenters will be invited to submit a full paper, although a full paper is not required.
+
+Because the EW is an open discussion forum, QCA experts are welcome to participate without presenting a paper. Indicate this intention using the same online form once it becomes available.
+
+## How to submit
+
+The organizers will add the approved online form link here once it is available. Until then, please do not email abstract files unless the organizers specifically request this.
+
+Questions about the call may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).

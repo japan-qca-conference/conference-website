@@ -1,0 +1,32 @@
+---
+title: "Programme"
+description: "Programme overview for the Japan QCA Conference 2026"
+---
+
+::: {.coming-soon}
+**Detailed timetable TBA**
+
+The conference will take place on 30–31 October 2026. Session times, rooms, and the final running order will be published after confirmation.
+:::
+
+## Plenary session
+
+**Carsten Schneider** and **Peer Fiss** will deliver keynote speeches during the plenary session.
+
+## Expert roundtable
+
+An expert roundtable will discuss the progress of QCA practices and provide space for exchange on current methodological questions.
+
+## Panel sessions
+
+Panel sessions will introduce and discuss the latest methodological developments in QCA.
+
+## Paper Development Workshop
+
+Paper developers will meet in small roundtable sessions to receive detailed, constructive feedback from QCA experts on empirical projects using QCA and related methods.
+
+## Expert Workshop
+
+The EW is organized as a discussion forum rather than a conventional paper-presentation session. It focuses on methodological issues related to QCA and related methods.
+
+The final programme will identify session times, speakers, rooms, breaks, and participant guidance once these details have been confirmed.

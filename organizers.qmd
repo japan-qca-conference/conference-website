@@ -1,0 +1,20 @@
+---
+title: "Organizers"
+description: "Organizational information for the Japan QCA Conference 2026"
+---
+
+::: {.coming-soon}
+**Organizational team details TBA**
+
+Names, affiliations, and roles will be published after the organizers confirm the approved wording and scope.
+:::
+
+## Information to be confirmed
+
+- Organizational team members and roles
+- Institutional affiliations
+- Collaborating institutions or research projects
+- Funding acknowledgements and grant numbers
+- Approved institutional or project logos
+
+Conference enquiries may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).

@@ -1,0 +1,21 @@
+---
+title: "QCA Bibliography"
+description: "Future QCA bibliography and research resources"
+---
+
+::: {.coming-soon}
+**Research resources are in preparation**
+
+This page reserves space for a future curated QCA bibliography and related research resources. No bibliography has yet been approved for publication.
+:::
+
+## Resources under consideration
+
+- Introductory QCA literature
+- Methodological debates and developments
+- Empirical applications
+- Software and teaching materials
+- Reproduction materials and public data
+- External resources on Zotero, OSF, and GitHub
+
+Classification, search, CSV, BibTeX, and Zotero integration will be considered after the scope, copyright status, and publication format have been agreed.

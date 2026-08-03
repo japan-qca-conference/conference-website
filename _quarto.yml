@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about.qmd
+    - program.qmd
+    - venue.qmd
+    - registration.qmd
+    - organizers.qmd
+    - bibliography.qmd
+    - contact.qmd
+
+lang: en
+
+website:
+  title: "Japan QCA Conference 2026"
+  description: "Japan QCA Conference, 30–31 October 2026, Waseda University, Tokyo"
+  navbar:
+    background: "#17324d"
+    foreground: "#ffffff"
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: program.qmd
+        text: Programme
+      - href: venue.qmd
+        text: Venue & Access
+      - href: registration.qmd
+        text: Call for Papers
+      - text: More
+        menu:
+          - href: organizers.qmd
+            text: Organizers
+          - href: bibliography.qmd
+            text: QCA Bibliography
+          - href: contact.qmd
+            text: Contact
+  page-footer:
+    border: true
+    left: "Japan QCA Conference 2026"
+    right: "Private draft"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: On this page
+    link-external-newwindow: true
+
+editor: visual

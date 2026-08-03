@@ -1,0 +1,27 @@
+---
+title: "Venue & Access"
+description: "Venue and travel information for the Japan QCA Conference 2026"
+---
+
+## Venue
+
+::: {.event-summary}
+**Waseda University**  
+Tokyo, Japan  
+30–31 October 2026
+:::
+
+The Japan QCA Conference is an in-person event. The specific campus, building, and room are **TBA**.
+
+## Access information
+
+The following details will be added after the venue arrangements are confirmed:
+
+- Campus, building, and room names
+- Full street address
+- Directions from the nearest railway or subway station
+- Campus access and entry instructions
+- Accessibility and step-free route information
+- A link to an approved campus map
+
+Please do not contact a Waseda University office about the conference until the organizers publish a designated venue contact. Conference questions may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).

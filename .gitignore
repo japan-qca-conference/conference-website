@@ -1,0 +1,37 @@
+# Quarto
+/.quarto/
+/_site/
+/docs/
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R dependency management (uncomment if renv is introduced)
+# renv/library/
+# renv/staging/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and office lock files
+~$*
+*.tmp
+*.temp
+
+# Dropbox conflict copies
+*conflicted copy*
+*競合コピー*
+
+**/*.quarto_ipynb

@@ -1,0 +1,17 @@
+---
+title: "Contact"
+description: "Contact the Japan QCA Conference 2026 organizational team"
+---
+
+## Conference enquiries
+
+For questions about the Japan QCA Conference 2026, the calls for abstracts and papers, or participation, contact the organizational team at:
+
+::: {.contact-card}
+**Email**  
+[jqca2026@gmail.com](mailto:jqca2026@gmail.com)
+:::
+
+Please do not send an abstract by email unless the organizers specifically request it. The approved online submission form will be added to the [Call for Papers](registration.qmd) page when available.
+
+The website does not collect names, email addresses, or other personal data.

@@ -4,7 +4,7 @@
 
 **30–31 October 2026**
 
-Two days of in-person workshops and plenary sessions.
+Two days of workshops and plenary sessions. The EW is hybrid.
 :::
 
 ::: {.status-card}
@@ -30,7 +30,7 @@ Submit a maximum 500-word abstract as a Word or PDF file.
 Applications for the Paper Development Workshop and Expert Workshop use separate Google Forms. Abstracts are due by **14 August 2026**, and applicants will be notified around **31 August 2026**.
 :::
 
-The Japan QCA Conference brings together researchers who apply QCA in empirical research and experts working on the latest QCA and related methodological developments. The conference will be held in person at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo.
+The Japan QCA Conference brings together researchers who apply QCA in empirical research and experts working on the latest QCA and related methodological developments. The PDW is held in person at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo. The EW is a hybrid event, combining in-person and online participation.
 
 ## Key dates
 
@@ -79,7 +79,7 @@ The PDW full-paper deadline and submission instructions are in preparation. A fu
 ::: {.key-date-details}
 ### Japan QCA Conference 2026
 
-The in-person conference takes place at Komatsu Hall, Waseda University, Tokyo.
+In-person sessions take place at Komatsu Hall, Waseda University, Tokyo. The EW also supports online participation.
 :::
 :::
 :::
@@ -101,6 +101,8 @@ Eligible PhD students with no or insufficient travel funding may apply for a tra
 ### Expert Workshop
 
 For experienced QCA researchers presenting or discussing methodological issues related to QCA or a related method.
+
+The EW is hybrid, combining in-person and online participation.
 
 QCA experts may participate without presenting a paper by indicating this in the same Expert Workshop form.
 

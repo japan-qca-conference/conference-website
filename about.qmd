@@ -5,7 +5,7 @@ description: "About the Japan QCA Conference 2026"
 
 ## Japan QCA Conference 2026
 
-The Japan QCA Conference is an in-person event for researchers who use Qualitative Comparative Analysis in empirical work and for experts engaged in advancing QCA and related methods. It will take place at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo, on 30–31 October 2026.
+The Japan QCA Conference brings together researchers who use Qualitative Comparative Analysis in empirical work and experts engaged in advancing QCA and related methods. It will take place on 30–31 October 2026, with in-person sessions at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo.
 
 The conference language is English.
 
@@ -22,9 +22,13 @@ The conference language is English.
 
 The Paper Development Workshop (PDW) is designed for researchers who use QCA in their domains and wish to develop an empirical paper. Small roundtable sessions allow paper developers to receive detailed feedback from QCA experts and discuss the methodological aspects of their projects.
 
+The PDW is an in-person workshop hosted by Waseda University in Tokyo.
+
 ### Expert Workshop
 
 The Expert Workshop (EW) is a discussion forum for experienced QCA researchers working on the latest QCA and related methodological developments. Empirical applications may illustrate a methodological issue, but the main focus should be on developing QCA or a related method.
+
+The EW is a hybrid event, combining in-person and online participation.
 
 QCA experts are welcome to participate in the EW even if they are not presenting a paper.
 

@@ -36,6 +36,8 @@ Submit a maximum **500-word abstract** as a Word or PDF file by **14 August 2026
 
 **For:** Experienced QCA researchers developing or discussing methodological issues in QCA or a related method.
 
+**Format:** Hybrid, combining in-person and online participation.
+
 **Proposal:** Maximum 500 words; Word or PDF; file name `YourSurname_EWJ26`.
 
 **Review:** The supplied call specifies a methodological focus but does not state separate scoring criteria.
@@ -51,6 +53,8 @@ Submit a maximum **500-word abstract** as a Word or PDF file by **14 August 2026
 |---|---|
 | Conference dates | 30–31 October 2026 |
 | Venue | Komatsu Hall, Building 121, B1F, Waseda University, Tokyo |
+| PDW format | In person |
+| Expert Workshop format | Hybrid: in-person and online participation |
 | Abstract deadline | 14 August 2026 |
 | Abstract length | Maximum 500 words; no page limit is stated |
 | File format | Word or PDF |
@@ -90,7 +94,7 @@ PhD students who have no or insufficient funding to travel to Tokyo may apply fo
 
 ## Expert Workshop {#expert-workshop}
 
-The EW invites experienced QCA researchers from a variety of disciplinary backgrounds to present, develop, and discuss methodological issues related to QCA. It is a discussion forum rather than a conventional paper-presentation session.
+The EW invites experienced QCA researchers from a variety of disciplinary backgrounds to present, develop, and discuss methodological issues related to QCA. It is a hybrid event, combining in-person and online participation, and is organized as a discussion forum rather than a conventional paper-presentation session.
 
 ### Eligibility and scope
 

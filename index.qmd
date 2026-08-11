@@ -1,6 +1,9 @@
 ---
 page-layout: full
 toc: false
+description-meta: "Japan QCA Conference 2026 takes place at Waseda University, Tokyo, on 30–31 October 2026, featuring Paper Development and Expert Workshops. Abstract deadline: 14 August 2026."
+include-in-header:
+  - _includes/seo-head.html
 ---
 
 ::: {.design-hero .home-hero-rotator data-rotating-hero="true" data-hero-active="skyline" data-historic-src="images/hero-02-historic-tokyo.png" data-historic-alt="Illustrated view inspired by a historic Tokyo streetscape" data-skyline-src="images/hero-04-shinjuku-skyline.png" data-skyline-alt="Illustrated view inspired by the Shinjuku skyline"}

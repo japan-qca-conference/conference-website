@@ -1,6 +1,7 @@
 ---
 title: "Organizers"
 description: "Organizational information for the Japan QCA Conference 2026"
+description-meta: "Conference organizers and committee members for Japan QCA Conference 2026, with institutional affiliations and the official conference contact."
 ---
 
 ## Conference organizers

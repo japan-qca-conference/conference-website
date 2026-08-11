@@ -3,6 +3,13 @@
 /_site/
 /docs/
 
+# Local-only design comparison sources
+/design-options.qmd
+/design-options/
+/_includes/design-hero-content.qmd
+/images/hero-01-waseda-campus.png
+/images/hero-03-modern-tokyo.png
+
 # RStudio
 .Rproj.user/
 .Rhistory

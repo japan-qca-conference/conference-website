@@ -1,0 +1,127 @@
+::: {.status-grid aria-label="Key conference information"}
+::: {.status-card}
+### Date
+
+**30–31 October 2026**
+
+Two days of workshops and plenary sessions. The EW is hybrid.
+:::
+
+::: {.status-card}
+### Venue
+
+**Komatsu Hall**
+
+Building 121, B1F, Waseda University, Tokyo.
+:::
+
+::: {.status-card}
+### Abstract deadline
+
+**14 August 2026**
+
+Submit a maximum 500-word abstract as a Word or PDF file.
+:::
+:::
+
+## Call for abstracts and papers {#current-status}
+
+::: {.callout-important}
+Applications for the Paper Development Workshop and Expert Workshop use separate Google Forms. Abstracts are due by **14 August 2026**, and applicants will be notified around **31 August 2026**.
+:::
+
+The Japan QCA Conference brings together researchers who apply QCA in empirical research and experts working on the latest QCA and related methodological developments. The PDW is held in person at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo. The EW is a hybrid event, combining in-person and online participation.
+
+## Key dates
+
+::: {.key-dates aria-label="Key dates for the Japan QCA Conference 2026"}
+::: {.key-date .key-date-important}
+<p class="key-date-date"><time datetime="2026-08-14">14 August 2026</time></p>
+::: {.key-date-marker aria-hidden="true"}
+:::
+
+::: {.key-date-details}
+### Abstract submission deadline
+
+Submit a maximum 500-word abstract to the separate PDW or Expert Workshop Google Form.
+:::
+:::
+
+::: {.key-date}
+<p class="key-date-date"><span>Around</span><time datetime="2026-08-31">31 August 2026</time></p>
+::: {.key-date-marker aria-hidden="true"}
+:::
+
+::: {.key-date-details}
+### Decision notification
+
+Applicants will be notified of the abstract decision. Accepted PDW applicants will be invited to submit a full paper.
+:::
+:::
+
+::: {.key-date .key-date-pending}
+<p class="key-date-date"><span class="key-date-tba">TBA</span></p>
+::: {.key-date-marker aria-hidden="true"}
+:::
+
+::: {.key-date-details}
+### Full paper deadline
+
+The PDW full-paper deadline and submission instructions are in preparation. A full paper is optional for the Expert Workshop.
+:::
+:::
+
+::: {.key-date .key-date-conference}
+<p class="key-date-date"><time datetime="2026-10-30">30–31 October 2026</time></p>
+::: {.key-date-marker aria-hidden="true"}
+:::
+
+::: {.key-date-details}
+### Japan QCA Conference 2026
+
+In-person sessions take place at Komatsu Hall, Waseda University, Tokyo. The EW also supports online participation.
+:::
+:::
+:::
+
+## Choose the right workshop
+
+::: {.link-grid}
+::: {.link-card}
+### Paper Development Workshop
+
+For researchers who are already applying QCA in an empirical study and want detailed feedback in small roundtable sessions.
+
+Eligible PhD students with no or insufficient travel funding may apply for a travel grant expected not to exceed ¥50,000. Application details will be provided with the abstract decision.
+
+[Review PDW requirements][cfp-pdw] · [Apply via Google Forms ↗](https://forms.gle/yWGnhG6sx83hpv1v8){target="_blank" rel="noopener" aria-label="Apply to the PDW using Google Forms in a new tab"}
+:::
+
+::: {.link-card}
+### Expert Workshop
+
+For experienced QCA researchers presenting or discussing methodological issues related to QCA or a related method.
+
+The EW is hybrid, combining in-person and online participation.
+
+QCA experts may participate without presenting a paper by indicating this in the same Expert Workshop form.
+
+[Review EW requirements][cfp-ew] · [Apply via Google Forms ↗](https://forms.gle/943yCBMq7ypPbKMy5){target="_blank" rel="noopener" aria-label="Apply to the Expert Workshop using Google Forms in a new tab"}
+:::
+:::
+
+## Programme highlights
+
+- Plenary keynote speeches by **Carsten Schneider** and **Peer Fiss**
+- An expert roundtable on the progress of QCA practices
+- Panel sessions on the latest methodological developments in QCA
+- Intensive Paper Development Workshop roundtables
+- An open-discussion Expert Workshop
+
+[View the provisional programme overview][programme-page]
+
+## Practical information
+
+There is **no conference fee**. The detailed timetable, session assignments, reception instructions, and accessibility guidance will be added as they are confirmed.
+
+Questions may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).

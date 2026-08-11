@@ -3,83 +3,33 @@ page-layout: full
 toc: false
 ---
 
-::: {.conference-hero}
-<p class="eyebrow">30–31 October 2026 · Tokyo, Japan</p>
+::: {.design-hero .home-hero-rotator data-rotating-hero="true" data-hero-active="skyline" data-historic-src="images/hero-02-historic-tokyo.png" data-historic-alt="Illustrated view inspired by a historic Tokyo streetscape" data-skyline-src="images/hero-04-shinjuku-skyline.png" data-skyline-alt="Illustrated view inspired by the Shinjuku skyline"}
+<img class="design-hero-image home-hero-image" data-rotating-hero-image alt="">
+<noscript><img src="images/hero-04-shinjuku-skyline.png" class="design-hero-image home-hero-image" alt="Illustrated view inspired by the Shinjuku skyline"></noscript>
+
+::: {.design-hero-content}
+<p class="home-hero-label">Waseda University · Tokyo</p>
 
 # Japan QCA Conference 2026
 
-Paper Development and Expert Workshops for researchers using and developing Qualitative Comparative Analysis.
+<p class="design-hero-subtitle">Paper Development and Expert Workshops for researchers using and developing Qualitative Comparative Analysis.</p>
 
-[View the Call for Papers](registration.qmd){.btn .btn-primary}
-[Explore the programme](program.qmd){.btn .btn-outline-primary}
-:::
+<div class="design-hero-facts" aria-label="Conference facts">
+<span>30–31 October 2026</span>
+<span>Komatsu Hall · Building 121, B1F</span>
+<span>Abstract deadline: 14 August 2026</span>
+</div>
 
-::: {.status-grid aria-label="Key conference information"}
-::: {.status-card}
-### Date
-
-**30–31 October 2026**
-
-Two days of in-person workshops and plenary sessions.
-:::
-
-::: {.status-card}
-### Venue
-
-**Waseda University**
-
-Tokyo, Japan. Campus and room details are TBA.
-:::
-
-::: {.status-card}
-### Abstract deadline
-
-**14 August 2026**
-
-Submit a maximum 500-word abstract as a Word or PDF file.
+[View the Call for Papers](registration.qmd){.btn .btn-light}
+[Venue & Access](venue.qmd){.btn .btn-outline-light}
 :::
 :::
 
-## Call for abstracts and papers {#current-status}
+{{< include _includes/home-content.qmd >}}
 
-::: {.callout-important}
-Abstracts for the Paper Development Workshop and Expert Workshop are due by **14 August 2026**. The online submission form will be linked here once confirmed. Applicants will be notified around **31 August 2026**.
-:::
+<script src="hero-rotation.js"></script>
 
-The Japan QCA Conference brings together researchers who apply QCA in empirical research and experts working on the latest QCA and related methodological developments. The conference will be held in person at Waseda University in Tokyo.
-
-## Two workshop formats
-
-::: {.link-grid}
-::: {.link-card}
-### Paper Development Workshop
-
-Small roundtable sessions give researchers detailed, constructive feedback from QCA experts and space to discuss the methodological aspects of developing papers.
-
-[PDW submission requirements](registration.qmd#paper-development-workshop)
-:::
-
-::: {.link-card}
-### Expert Workshop
-
-A discussion forum for experienced QCA researchers to present, develop, and debate methodological issues in QCA and related methods.
-
-[EW submission requirements](registration.qmd#expert-workshop)
-:::
-:::
-
-## Programme highlights
-
-- Plenary keynote speeches by **Carsten Schneider** and **Peer Fiss**
-- An expert roundtable on the progress of QCA practices
-- Panel sessions on the latest methodological developments in QCA
-- Intensive Paper Development Workshop roundtables
-- An open-discussion Expert Workshop
-
-[View the provisional programme overview](program.qmd)
-
-## Practical information
-
-There is **no conference fee**. PhD students accepted to the Paper Development Workshop who have no or insufficient travel funding may apply for a travel grant expected not to exceed **¥50,000**. Application details are TBA.
-
-Questions may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).
+[cfp-page]: registration.qmd
+[cfp-pdw]: registration.qmd#paper-development-workshop
+[cfp-ew]: registration.qmd#expert-workshop
+[programme-page]: program.qmd

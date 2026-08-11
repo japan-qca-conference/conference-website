@@ -20,6 +20,12 @@ lang: en
 website:
   title: "Japan QCA Conference 2026"
   description: "Japan QCA Conference, 30–31 October 2026, Komatsu Hall, Waseda University, Tokyo"
+  site-url: "https://japan-qca-conference.github.io/conference-website/"
+  image: "images/hero-04-shinjuku-skyline.png"
+  image-alt: "Illustrated view inspired by the Shinjuku skyline"
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
   navbar:
     background: "#17324d"
     foreground: "#ffffff"
@@ -52,6 +58,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    canonical-url: true
     toc: true
     toc-title: On this page
     link-external-newwindow: true

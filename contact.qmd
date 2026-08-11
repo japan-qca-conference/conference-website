@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 description: "Contact the Japan QCA Conference 2026 organizational team"
+description-meta: "Contact the Japan QCA Conference 2026 organizational team about the conference, Call for Papers, and participation."
 ---
 
 ## Conference enquiries

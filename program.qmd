@@ -1,6 +1,7 @@
 ---
 title: "Programme"
 description: "Programme overview for the Japan QCA Conference 2026"
+description-meta: "Programme overview for Japan QCA Conference 2026, including keynote speeches by Carsten Schneider and Peer Fiss, PDW roundtables, the Expert Workshop, and panel sessions."
 ---
 
 ::: {.coming-soon}

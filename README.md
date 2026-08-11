@@ -2,6 +2,8 @@
 
 This repository contains the source files for the official website of the **Japan QCA Conference 2026**, held at Waseda University in Tokyo on 30–31 October 2026.
 
+Official website: [https://japan-qca-conference.github.io/conference-website/](https://japan-qca-conference.github.io/conference-website/)
+
 ## Purpose
 
 The website provides prospective participants and presenters with clear access to:

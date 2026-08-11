@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "About the Japan QCA Conference 2026"
+description-meta: "Learn about the aims, Paper Development Workshop, hybrid Expert Workshop, and JSPS KAKENHI support for Japan QCA Conference 2026 at Waseda University."
 ---
 
 ## Japan QCA Conference 2026

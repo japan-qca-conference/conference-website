@@ -1,6 +1,7 @@
 ---
 title: "QCA Bibliography"
 description: "Future QCA bibliography and research resources"
+description-meta: "Information about the forthcoming Japan QCA Conference bibliography and curated resources for Qualitative Comparative Analysis."
 ---
 
 ::: {.coming-soon}

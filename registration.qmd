@@ -1,6 +1,7 @@
 ---
 title: "Call for Abstracts & Papers"
 description: "Submission information for the Japan QCA Conference 2026"
+description-meta: "Submit a maximum 500-word abstract to the Japan QCA Conference 2026 Paper Development Workshop or Expert Workshop by 14 August 2026. There is no conference fee."
 ---
 
 ::: {.callout-important}

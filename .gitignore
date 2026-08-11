@@ -37,6 +37,9 @@ desktop.ini
 *.tmp
 *.temp
 
+# Local Codex attachments (may contain private review material)
+/.codex-remote-attachments/
+
 # Dropbox conflict copies
 *conflicted copy*
 *競合コピー*

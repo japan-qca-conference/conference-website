@@ -12,6 +12,6 @@ For questions about the Japan QCA Conference 2026, the calls for abstracts and p
 [jqca2026@gmail.com](mailto:jqca2026@gmail.com)
 :::
 
-Please do not send an abstract by email unless the organizers specifically request it. The approved online submission form will be added to the [Call for Papers](registration.qmd) page when available.
+Please do not send an abstract by email unless the organizers specifically request it. Use the relevant external Google Form linked from the [Call for Papers](registration.qmd) page.
 
 The website does not collect names, email addresses, or other personal data.

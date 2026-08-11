@@ -51,14 +51,14 @@ QCA Conference Website
 ## 現在の承認状況
 
 - Quartoでウェブサイトを制作する方向：承認済み
-- 正式サイト名：未確定
-- GitHub Organization：準備中または仮設定
-- 公開：未承認
+- 正式サイト名：Japan QCA Conference 2026
+- GitHub Organization：qca-conference-japan
+- 公開：2026年8月11日に主催者から明示的な承認を取得
 - GitHub Pages：未設定
 - プログラム：8月下旬頃に確定予定
-- 会場情報：未確定または未入力
-- 参加登録：未確定
-- 問い合わせ先：正式アドレス未確定
+- 会場情報：Komatsu Hall, Research Innovation Center (Building 121), B1F, Waseda University
+- 参加登録：PDW／Expert WorkshopのGoogle Formsを確認済み
+- 問い合わせ先：jqca2026@gmail.com
 
 ## 優先順位
 

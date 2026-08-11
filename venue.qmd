@@ -6,22 +6,26 @@ description: "Venue and travel information for the Japan QCA Conference 2026"
 ## Venue
 
 ::: {.event-summary}
-**Waseda University**  
-Tokyo, Japan  
+**Komatsu Hall**<br>
+Research Innovation Center (Building 121), B1F<br>
+Waseda University, Tokyo<br>
 30–31 October 2026
 :::
 
-The Japan QCA Conference is an in-person event. The specific campus, building, and room are **TBA**.
+The Japan QCA Conference is an in-person event. Komatsu Hall is on the basement first floor of Waseda University's Research Innovation Center, identified as **Building 121** on the official campus map.
+
+**Address**<br>
+513 Wasedatsurumakicho, Shinjuku-ku, Tokyo 162-0041, Japan
+
+[View the official Waseda campus map (PDF) ↗](https://www.waseda.jp/top/en/assets/uploads/2022/06/waseda-campus-map_202109.pdf){.btn .btn-primary target="_blank" rel="noopener"}
+[Building 121 information ↗](https://www.waseda.jp/inst/research/en/org/bldg121){.btn .btn-outline-primary target="_blank" rel="noopener"}
 
 ## Access information
 
-The following details will be added after the venue arrangements are confirmed:
+The walking times published by Waseda University for Building 121 are:
 
-- Campus, building, and room names
-- Full street address
-- Directions from the nearest railway or subway station
-- Campus access and entry instructions
-- Accessibility and step-free route information
-- A link to an approved campus map
+- Tokyo Metro Tozai Line: approximately **3 minutes** from Waseda Station
+- Tokyo Metro Fukutoshin Line: approximately **16 minutes** from Nishi-Waseda Station
+- JR Yamanote Line or Seibu Shinjuku Line: approximately **21 minutes** from Takadanobaba Station
 
-Please do not contact a Waseda University office about the conference until the organizers publish a designated venue contact. Conference questions may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).
+Detailed reception, campus-entry, and step-free access instructions will be added when confirmed. Please do not contact a Waseda University office about the conference; conference questions should be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).

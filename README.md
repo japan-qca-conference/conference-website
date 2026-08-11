@@ -2,9 +2,9 @@
 
 小規模なQCA関連カンファレンス／研究会の公式ウェブサイトを、QuartoとGitHubで構築・管理するプロジェクトです。
 
-> **現在の状態：非公開の下書き段階**
+> **現在の状態：公開候補版（GitHubでの公開操作は未実施）**
 >
-> 正式名称、開催情報、プログラム、問い合わせ先などの最終承認が得られるまで、GitHub Pagesを有効化せず、公開もしません。
+> 会場、運営者、問い合わせ先、科研費謝辞、申込フォームを反映済みです。公開前のローカル検証とGitHub Pages方式の最終確認を行います。
 
 ## 目的
 
@@ -147,6 +147,10 @@ http://localhost:xxxx/
 | `bibliography.qmd` | QCA Bibliography |
 | `contact.qmd` | Contact |
 | `styles.css` | サイト共通の見た目 |
+| `design-options.qmd` | 内部確認用の4案比較ページ（公開render対象外） |
+| `design-options/*.qmd` | 各ヘッダーデザイン案（公開render対象外） |
+| `_includes/*.qmd` | Home本文とデザイン案の共通部分 |
+| `hero-rotation.js` | Homeで案2と案4をページ読込時に切り替える最小スクリプト |
 
 編集時の基本手順：
 
@@ -280,7 +284,7 @@ Improve mobile navigation
 - GitHub ActionsでQuartoを自動レンダリングして公開
 - その他の静的ホスティング
 
-現在はGitHub Pagesを有効化しません。
+GitHub Pagesの有効化、push、visibility変更は、公開候補版の最終確認後に明示的な承認を得て実施します。
 
 ## 個人情報・安全管理
 

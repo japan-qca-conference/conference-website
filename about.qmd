@@ -5,7 +5,7 @@ description: "About the Japan QCA Conference 2026"
 
 ## Japan QCA Conference 2026
 
-The Japan QCA Conference is an in-person event for researchers who use Qualitative Comparative Analysis in empirical work and for experts engaged in advancing QCA and related methods. It will take place at Waseda University in Tokyo on 30–31 October 2026.
+The Japan QCA Conference is an in-person event for researchers who use Qualitative Comparative Analysis in empirical work and for experts engaged in advancing QCA and related methods. It will take place at Komatsu Hall, Research Innovation Center (Building 121), Waseda University, Tokyo, on 30–31 October 2026.
 
 The conference language is English.
 
@@ -27,3 +27,19 @@ The Paper Development Workshop (PDW) is designed for researchers who use QCA in 
 The Expert Workshop (EW) is a discussion forum for experienced QCA researchers working on the latest QCA and related methodological developments. Empirical applications may illustrate a methodological issue, but the main focus should be on developing QCA or a related method.
 
 QCA experts are welcome to participate in the EW even if they are not presenting a paper.
+
+## Supported by
+
+::: {.funding-note}
+**The Japan QCA Conference 2026 is supported by the following JSPS KAKENHI.**
+
+### Grant-in-Aid for Challenging Research (Pioneering)
+
+[Grant Number 23K17283 ↗](https://kaken.nii.ac.jp/report/KAKENHI-PROJECT-23K17283/23K172832023saitaku_shoken/){.grant-record-link target="_blank" rel="noopener" aria-label="View the official KAKEN record for Grant Number 23K17283 in a new tab"}<br>
+*Fostering Co-creation of Qualitative Comparative Analysis (QCA) in Political Science: Time-orientation, Conditionality, and Good Practices*
+
+### Grant-in-Aid for Scientific Research (B)
+
+[Grant Number 26K00294 ↗](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K00294/){.grant-record-link target="_blank" rel="noopener" aria-label="View the official KAKEN record for Grant Number 26K00294 in a new tab"}<br>
+*Building a Foundation for Set-theoretic Interaction and Mediation Analysis (SIMA): Exploring Causal Attributes in Political Science*
+:::

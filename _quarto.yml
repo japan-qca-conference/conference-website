@@ -10,12 +10,16 @@ project:
     - organizers.qmd
     - bibliography.qmd
     - contact.qmd
+  resources:
+    - images/hero-02-historic-tokyo.png
+    - images/hero-04-shinjuku-skyline.png
+    - hero-rotation.js
 
 lang: en
 
 website:
   title: "Japan QCA Conference 2026"
-  description: "Japan QCA Conference, 30–31 October 2026, Waseda University, Tokyo"
+  description: "Japan QCA Conference, 30–31 October 2026, Komatsu Hall, Waseda University, Tokyo"
   navbar:
     background: "#17324d"
     foreground: "#ffffff"
@@ -42,7 +46,7 @@ website:
   page-footer:
     border: true
     left: "Japan QCA Conference 2026"
-    right: "Private draft"
+    right: "JSPS KAKENHI 23K17283 / 26K00294"
 
 format:
   html:

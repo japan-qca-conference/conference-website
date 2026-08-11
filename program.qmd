@@ -6,7 +6,7 @@ description: "Programme overview for the Japan QCA Conference 2026"
 ::: {.coming-soon}
 **Detailed timetable TBA**
 
-The conference will take place on 30–31 October 2026. Session times, rooms, and the final running order will be published after confirmation.
+The conference will take place on 30–31 October 2026 at Komatsu Hall, Building 121, B1F, Waseda University. Session times and the final running order will be published after confirmation.
 :::
 
 ## Plenary session

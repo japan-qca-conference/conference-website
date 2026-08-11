@@ -3,18 +3,23 @@ title: "Organizers"
 description: "Organizational information for the Japan QCA Conference 2026"
 ---
 
-::: {.coming-soon}
-**Organizational team details TBA**
+## Conference organizers
 
-Names, affiliations, and roles will be published after the organizers confirm the approved wording and scope.
-:::
+| Name | Affiliation |
+|---|---|
+| **Airo HINO** | Waseda University |
+| **Sho NIIKAWA** | Kobe University |
 
-## Information to be confirmed
+## Conference committee members
 
-- Organizational team members and roles
-- Institutional affiliations
-- Collaborating institutions or research projects
-- Funding acknowledgements and grant numbers
-- Approved institutional or project logos
+| Name | Affiliation |
+|---|---|
+| **Nobukazu AZUMA** | Aoyama Gakuin University |
+| **Taisuke FUJITA** | Saitama University |
+| **Atsushi ISHIDA** | Kwansei Gakuin University |
+| **Aya KUDO** | Kanazawa University |
+| **Narimasa YOKOYAMA** | Doshisha University |
 
-Conference enquiries may be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).
+The conference is supported by two JSPS KAKENHI projects. See [About](about.qmd#supported-by) for the approved acknowledgement.
+
+Conference enquiries should be sent to [jqca2026@gmail.com](mailto:jqca2026@gmail.com).

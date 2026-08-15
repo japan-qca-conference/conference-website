@@ -12,6 +12,7 @@ project:
     - contact.qmd
   resources:
     - googlea9b156cb8c78e30d.html
+    - conference-website
     - images/hero-02-historic-tokyo.png
     - images/hero-04-shinjuku-skyline.png
     - hero-rotation.js
@@ -21,7 +22,7 @@ lang: en
 website:
   title: "Japan QCA Conference 2026"
   description: "Japan QCA Conference, 30–31 October 2026, Komatsu Hall, Waseda University, Tokyo"
-  site-url: "https://japan-qca-conference.github.io/conference-website/"
+  site-url: "https://japan-qca-conference.github.io/"
   image: "images/hero-04-shinjuku-skyline.png"
   image-alt: "Illustrated view inspired by the Shinjuku skyline"
   open-graph: true

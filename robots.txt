@@ -1,1 +1,1 @@
-Sitemap: https://japan-qca-conference.github.io/conference-website/sitemap.xml
+Sitemap: https://japan-qca-conference.github.io/sitemap.xml
